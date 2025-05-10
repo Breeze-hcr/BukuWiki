@@ -1,41 +1,41 @@
-# Website
+<div align="center">
+  <div>
+    <img src="./static/img/book.png" alt="BukuWiki Logo" height="200" width="200"/>
+  </div>
+  <b>
+    BukuWiki
+  </b>
+  <div>
+    Minecraft玩家们的终极指南
+  </div>
+</div>
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+<p align="center">
+  	<img src="https://img.shields.io/github/license/Moralts/BukuWiki"/>
+    <img src="https://img.shields.io/github/last-commit/Moralts/BukuWiki
+" />
+    <img src="https://img.shields.io/badge/Action-CloudFlare_Pages-orange
+" />
+</p>
+<h1 align="center">🤔什么是BukuWiki？</h1>
 
-### Installation
+BukuWiki是由一群Minecraft的社区爱好者一同维护的开源内容Wiki，旨在为Minecraft玩家提供最完整，最好的游玩指南。
 
-```
-$ yarn
-```
+<h1 align="center">📖开始阅读</h1>
 
-### Local Development
+我们使用CloudFlare Page提供的Pages构建服务，我们的主站是[buku.wiki](Buku.wiki)，Wiki则是[docs.buku.wiki](docs.buku.wiki)
 
-```
-$ yarn start
-```
+<h1 align="center">✒️为Wiki做出贡献</h1>
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+1. Fork 此仓库至自己的 GitHub 账户下
+2. 克隆到本地后，自己修改需要修改的部分
+3. 在本地build成功且预期符合之后，再进行提交PR
 
-### Build
+<h1 align="center">🌸贡献者</h1>
 
-```
-$ yarn build
-```
+[![Contrib](https://contrib.rocks/image?repo=Moralts/BukuWiki)](https://github.com/Morlts/BukuWiki/graphs/contributors)
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+<h1 align="center">🌟Stars历史图</h1>
 
-### Deployment
+[![Star History Chart](https://api.star-history.com/svg?repos=Moralts/BukuWiki&type=Date)](https://www.star-history.com/#Moralts/BukuWiki&Date)
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

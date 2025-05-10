@@ -2,46 +2,41 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+# Buku Wiki
 
-Get started by **creating a new site**.
+Hi~ 👋 欢迎来到BukuWiki~
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 这是一篇什么类型的Wiki？
 
-### What you'll need
+**BukuWiki** 是为Minecraft玩家提供完整的终极指南，你可以在这里找到所有的**疑问和帮助**。
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+但是你也不能**啥都不会**，你至少要会这些：
 
-## Generate a new site
+- 有一台不要**太过时**的设备/手机
+- 会**最基本的**PC/手机操作，解压、下载之类的
+- 具有一定英语基础或**可以学习**的想法
 
-Generate a new Docusaurus site using the **classic template**.
+## 这个Wiki有什么用？
 
-The classic template will automatically be added to your project after you run the command:
+**BukuWiki** 的初衷是为了玩家可以为一些各种各样的问题，却在**搜索引擎找不到好的解决办法或者是难的问题**，提供解决办法和应对措施。
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+说明白点就是一份游玩Minecraft的**百科全书**，包括你游玩过程中断所有内容。
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+**BukuWiki** 实现这一点还需要很久，所以慢慢来，不要着急。
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Wiki的适用人群是哪些人？
 
-## Start your site
+**广泛性是他的优点**，面对的则是所有的Minecraft玩家。
 
-Run the development server:
+## Wiki不适应哪些人？
 
-```bash
-cd my-website
-npm run start
-```
+- **无厘头**，一心急着求成，**静不下心的**
+- **不会好好看文章的**
+- 动手能力**极差的**
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## 准备好了？那就开始你在BukuWiki的旅途吧~
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+### 祝你玩的愉快，开心最重要~ 😄
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
