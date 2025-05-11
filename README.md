@@ -13,14 +13,18 @@
   </b>
 </div>
 
+<p>
+  
+</p>
 
 <p align="center">
-  	<img src="https://img.shields.io/github/license/Moralts/BukuWiki"/>
-    <img src="https://img.shields.io/github/last-commit/Moralts/BukuWiki
-" />
-    <img src="https://img.shields.io/badge/Action-CloudFlare_Pages-orange
-" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Build-Docusaurus-brightgreen">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/Moralts/BukuWiki">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Moralts/BukuWiki">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Moralts/BukuWiki">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Action-CloudFlare_Pages-orange">
 </p>
+
 <h1 align="center">🤔什么是BukuWiki？</h1>
 
 BukuWiki是由一群Minecraft的社区爱好者一同维护的开源内容Wiki，旨在为Minecraft玩家提供最完整，最好的游玩指南。
