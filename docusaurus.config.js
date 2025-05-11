@@ -81,7 +81,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '文档',
             items: [
               {
                 label: 'Tutorial',
@@ -90,7 +90,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: '社区',
             items: [
               {
                 label: 'Stack Overflow',
@@ -107,7 +107,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
                 label: 'GitHub',
