@@ -2,20 +2,24 @@
   <div>
     <img src="./static/img/book.png" alt="BukuWiki Logo" height="200" width="200"/>
   </div>
-  <h1>
+  <b>
     BukuWiki
-  </h1>
-  <h2>
+  </b>
+  <div>
     Minecraft玩家们的终极指南
-  </h2>
+  </div>
+  <b>
+    （图标灵感来源于开源安卓软件 Shizuku）
+  </b>
 </div>
 
+
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Build-Docusaurus-brightgreen">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/Moralts/BukuWiki">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Moralts/BukuWiki">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Moralts/BukuWiki">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Action-CloudFlare_Pages-orange">
+  	<img src="https://img.shields.io/github/license/Moralts/BukuWiki"/>
+    <img src="https://img.shields.io/github/last-commit/Moralts/BukuWiki
+" />
+    <img src="https://img.shields.io/badge/Action-CloudFlare_Pages-orange
+" />
 </p>
 <h1 align="center">🤔什么是BukuWiki？</h1>
 
@@ -23,7 +27,7 @@ BukuWiki是由一群Minecraft的社区爱好者一同维护的开源内容Wiki�
 
 <h1 align="center">📖开始阅读</h1>
 
-我们使用CloudFlare Page提供的Pages构建服务，我们的主站是[buku.wiki](Buku.wiki)，Wiki则是[docs.buku.wiki](docs.buku.wiki)
+我们使用CloudFlare Page提供的Pages构建服务，转到[docs.buku.wiki](https://docs.buku.wiki)
 
 <h1 align="center">✒️为Wiki做出贡献</h1>
 
