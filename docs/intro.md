@@ -1,14 +1,11 @@
 ---
 sidebar_position: 1
 ---
-
-
-
 # Buku Wiki
 
 Hi~ 👋 欢迎来到BukuWiki~
 
-## 这是一篇什么类型的Wiki？
+## 🤔这是一篇什么类型的Wiki？
 
 **BukuWiki** 是为Minecraft玩家提供完整的终极指南，你可以在这里找到所有的**疑问和帮助**。
 
@@ -38,5 +35,4 @@ Hi~ 👋 欢迎来到BukuWiki~
 
 ## 准备好了？那就开始你在BukuWiki的旅途吧~
 
-### 祝你玩的愉快，开心最重要~ 😄
-
+祝你玩的愉快，开心最重要~ 😄
